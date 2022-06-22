@@ -6,8 +6,8 @@ $ git clone https://github.com/XYLENT-CF/v2
 
 
 
-$ cd V2
+$ cd v2
 
 
 
-$ python2 v2.py
+$ python v2.py
